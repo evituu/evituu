@@ -84,17 +84,31 @@ AWS · Docker
 Data Science & Econometrics
 R · Pandas · NumPy · Statsmodels · Econometrics · Experimentation
 
-Embedding Space Visualizer
+---
 
-Interactive environment for understanding embedding spaces, similarity metrics and information retrieval.
+## Selected projects
 
-Topics: cosine similarity · Euclidean distance · dimensionality reduction · PCA · t-SNE · UMAP · retrieval ranking · high-dimensional vector spaces
+### Sistema de Geração de Texto
 
-Computer Vision Experiments
+AI-assisted platform for structured project writing using **Retrieval-Augmented Generation**.
 
-Experiments involving object detection, multi-object tracking and crowd analysis.
+```text
+Next.js -> FastAPI -> RAG Pipeline -> Embeddings -> Vector Search -> LLM
+```
 
-Topics: YOLO · ByteTrack · pedestrian detection · tracking · crowd counting · video analytics
+**Engineering focus:** semantic retrieval · project-level ranking · document ingestion · versioned generation · AI-assisted editing · LLM observability and governance
+
+### Embedding Space Visualizer
+
+Interactive environment for understanding **embedding spaces, similarity metrics and information retrieval**.
+
+**Topics:** cosine similarity · Euclidean distance · dimensionality reduction · PCA · t-SNE · UMAP · retrieval ranking · high-dimensional vector spaces
+
+### Computer Vision Experiments
+
+Experiments involving **object detection, multi-object tracking and crowd analysis**.
+
+**Topics:** YOLO · ByteTrack · pedestrian detection · tracking · crowd counting · video analytics
 
 ---
 
