@@ -96,24 +96,23 @@ Experiments involving object detection, multi-object tracking and crowd analysis
 
 Topics: YOLO · ByteTrack · pedestrian detection · tracking · crowd counting · video analytics
 
-Current research & engineering interests
+---
 
-Foundation Models and AI Engineering
+## Current research & engineering interests
 
-Production RAG architectures
+- Foundation Models and AI Engineering
+- Production RAG architectures
+- Embeddings, vector search and retrieval systems
+- Reliable Machine Learning and MLOps
+- Computer Vision and video analytics
+- Distributed and data-intensive systems
+- Experimentation, causal inference and econometrics
 
-Embeddings, vector search and retrieval systems
+---
 
-Reliable Machine Learning and MLOps
+## Engineering principles
 
-Computer Vision and video analytics
-
-Distributed and data-intensive systems
-
-Experimentation, causal inference and econometrics
-
-Engineering principles
-
+```text
 Reliability before unnecessary complexity.
 Measure before optimizing.
 Observability is part of the architecture.
@@ -121,6 +120,9 @@ Make trade-offs explicit.
 Keep experimentation reproducible.
 Separate prototypes from production systems.
 Prefer empirical evidence over intuition.
+```
+
+---
 
 Languages
 
