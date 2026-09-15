@@ -138,13 +138,13 @@ Prefer empirical evidence over intuition.
 
 ---
 
-Languages
+## Languages
 
-Python · R · SQL · TypeScript
+`Python` · `R` · `SQL` · `TypeScript` · `JavaScript`
 
-Contact
+## Contact
 
-GitHub: @evituu
+**GitHub:** @evituu
 
 <p align="center">
   <img
