@@ -55,7 +55,7 @@ What I work with
     <td width="50%" valign="top">
       <h3>Cloud & Reliability</h3>
       <p>Cloud infrastructure, containers, CI/CD, observability and reliability-oriented engineering.</p>
-      <code>AWS</code> <code>Docker</code> <code>GitHub Actions</code> <code>Linux</code> <code>CI/CD</code>
+      <code>AWS</code> <code>Docker</code> <code>CI/CD</code>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ Backend & Frontend
 FastAPI · Node.js · React · Next.js · TypeScript · Tailwind CSS
 
 Infrastructure
-AWS · Docker · GitHub Actions · Linux · CI/CD
+AWS · Docker
 
 Data Science & Econometrics
 R · Pandas · NumPy · Statsmodels · Econometrics · Experimentation
@@ -124,7 +124,7 @@ Prefer empirical evidence over intuition.
 
 Languages
 
-Python · R · SQL · TypeScript · JavaScript
+Python · R · SQL · TypeScript
 
 Contact
 
