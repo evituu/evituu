@@ -19,19 +19,23 @@
   I design and build <b>data-intensive systems</b>, <b>machine learning pipelines</b>, and <b>production-ready AI applications</b>.
 </p>
 
-About me
+---
 
-I'm a software and data professional working at the intersection of AI Engineering, Data Engineering, Machine Learning and System Architecture.
+## About me
+
+I'm a software and data professional working at the intersection of **AI Engineering, Data Engineering, Machine Learning and System Architecture**.
 
 My work is centered on turning data and models into reliable systems: from ingestion and storage to retrieval, inference, APIs, observability and production operations.
 
-I also have a background in Economics, which strongly influences how I approach experimentation, causal reasoning, measurement and decision systems.
+I also have a background in **Economics**, which strongly influences how I approach experimentation, causal reasoning, measurement and decision systems.
 
+```text
 Data  ->  Pipelines  ->  Retrieval / Features  ->  Models / LLMs  ->  APIs  ->  Products
                                   |                                      |
                                   +---------- Observability -------------+
+```
 
-What I work with
+## What I work with
 
 <table>
   <tr>
@@ -60,7 +64,7 @@ What I work with
   </tr>
 </table>
 
-Core stack
+## Core stack
 
 <p align="center">
   <img
@@ -69,20 +73,20 @@ Core stack
   />
 </p>
 
-AI / ML
-Python · PyTorch · scikit-learn · Transformers · LangChain · RAG · Computer Vision
+**AI / ML**  
+`Python` · `PyTorch` · `scikit-learn` · `Transformers` · `LangChain` · `RAG` · `Computer Vision`
 
-Data
-PostgreSQL · SQL · pgvector · OpenSearch · S3 · ETL/ELT · Data Modeling
+**Data**  
+`PostgreSQL` · `SQL` · `pgvector` · `OpenSearch` · `S3` · `ETL/ELT` · `Data Modeling`
 
-Backend & Frontend
-FastAPI · Node.js · React · Next.js · TypeScript · Tailwind CSS
+**Backend & Frontend**  
+`FastAPI` · `Node.js` · `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-Infrastructure
-AWS · Docker
+**Infrastructure**  
+`AWS` · `Docker` · `GitHub Actions` · `Linux` · `CI/CD`
 
-Data Science & Econometrics
-R · Pandas · NumPy · Statsmodels · Econometrics · Experimentation
+**Data Science & Econometrics**  
+`R` · `Pandas` · `NumPy` · `Statsmodels` · `Econometrics` · `Experimentation`
 
 ---
 
