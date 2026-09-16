@@ -68,25 +68,28 @@ Data  ->  Pipelines  ->  Retrieval / Features  ->  Models / LLMs  ->  APIs  ->  
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,r,pytorch,sklearn,fastapi,postgres,aws,docker,react,nextjs,ts,tailwind,git,githubactions,linux&perline=8"
+    src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,opencv,fastapi,nodejs,postgres,aws,docker,react,nextjs,ts,tailwind,git,github,githubactions,linux,obsidian,vscode,vercel&perline=8"
     alt="Core technology stack"
   />
 </p>
 
-**AI / ML**  
-`Python` · `PyTorch` · `scikit-learn` · `Transformers` · `LangChain` · `RAG` · `Computer Vision`
+**AI / ML**
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Transformers` · `LangChain` · `RAG` · `Computer Vision` · `OpenCV`
 
-**Data**  
+**Data**
 `PostgreSQL` · `SQL` · `pgvector` · `OpenSearch` · `S3` · `ETL/ELT` · `Data Modeling`
 
-**Backend & Frontend**  
+**Backend & Web**
 `FastAPI` · `Node.js` · `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-**Infrastructure**  
-`AWS` · `Docker` · `GitHub Actions` · `Linux` · `CI/CD`
+**Infrastructure**
+`AWS` · `Docker` · `Vercel` · `GitHub Actions` · `Linux` · `CI/CD`
 
-**Data Science & Econometrics**  
+**Data Science & Econometrics**
 `R` · `Pandas` · `NumPy` · `Statsmodels` · `Econometrics` · `Experimentation`
+
+**Tools**
+`Git` · `GitHub` · `VS Code` · `Obsidian`
 
 ---
 
