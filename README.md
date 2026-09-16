@@ -152,14 +152,11 @@ Prefer empirical evidence over intuition.
 
 `Python` · `R` · `SQL` · `TypeScript` · `JavaScript`
 
-## Contact
+## Contact & Socials
 
-**GitHub:** @evituu
+<p align="left"> <a href="mailto:vitoreduare@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" align="center" /> &nbsp;&nbsp;Gmail </a> </p>
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=3&section=footer"
-    alt="Footer"
-  />
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/vitor-ferreira-cd/"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" align="center" /> &nbsp;&nbsp;LinkedIn </a> </p>
+
+<p align="left"> <a href="evituu"> <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" align="center" /> &nbsp;&nbsp;GitHub </a> </p>
+
