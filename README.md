@@ -66,8 +66,6 @@ Data  ->  Pipelines  ->  Retrieval / Features  ->  Models / LLMs  ->  APIs  ->  
 
 ## Core stack
 
-## Core stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
