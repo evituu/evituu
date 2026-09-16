@@ -66,14 +66,35 @@ Data  ->  Pipelines  ->  Retrieval / Features  ->  Models / LLMs  ->  APIs  ->  
 
 ## Core stack
 
+## Core stack
+
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,opencv,fastapi,nodejs,postgres,aws,docker,react,nextjs,ts,tailwind,git,github,githubactions,linux,obsidian,vscode,vercel&perline=8"
-    alt="Core technology stack"
-  />
-  <br />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+
   <img src="./assets/stata.svg" width="48" height="48" alt="Stata" />
   <img src="./assets/cursor.svg" width="48" height="48" alt="Cursor" />
+
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
 </p>
 
 **AI / ML**
@@ -158,5 +179,5 @@ Prefer empirical evidence over intuition.
 
 <p align="left"> <a href="https://www.linkedin.com/in/vitor-ferreira-cd/"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" align="center" /> &nbsp;&nbsp;LinkedIn </a> </p>
 
-<p align="left"> <a href="evituu"> <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" align="center" /> &nbsp;&nbsp;GitHub </a> </p>
+<p align="left"> <a href="https://github.com/evituu"> <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" align="center" /> &nbsp;&nbsp;GitHub </a> </p>
 
