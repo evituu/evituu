@@ -1,5 +1,3 @@
-<!-- Profile README for github.com/evituu -->
-
 <p align="center">
   <img
     width="100%"
@@ -57,10 +55,17 @@ Data  ->  Pipelines  ->  Retrieval / Features  ->  Models / LLMs  ->  APIs  ->  
       <code>FastAPI</code> <code>Python</code> <code>Node.js</code> <code>React</code> <code>Next.js</code>
     </td>
     <td width="50%" valign="top">
-      <h3>Cloud & Reliability</h3>
-      <p>Cloud infrastructure, containers, CI/CD, observability and reliability-oriented engineering.</p>
-      <code>AWS</code> <code>Docker</code> <code>CI/CD</code>
-    </td>
+      <h3>AWS Cloud Engineering</h3>
+        <p>
+          Design and operation of cloud-native architectures on AWS, including
+          compute, storage, databases, messaging, identity and application deployment.
+        </p>
+          <code>EC2</code>
+          <code>S3</code>
+          <code>RDS</code>
+          <code>Aurora</code>
+          <code>IAM</code>
+      </td>
   </tr>
 </table>
 
@@ -96,7 +101,7 @@ Data  ->  Pipelines  ->  Retrieval / Features  ->  Models / LLMs  ->  APIs  ->  
 </p>
 
 **AI / ML**
-`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Transformers` · `LangChain` · `RAG` · `Computer Vision` · `OpenCV`
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `LangChain` · `RAG` · `Computer Vision` · `OpenCV`
 
 **Data**
 `PostgreSQL` · `SQL` · `pgvector` · `OpenSearch` · `S3` · `ETL/ELT` · `Data Modeling`
@@ -111,11 +116,11 @@ Data  ->  Pipelines  ->  Retrieval / Features  ->  Models / LLMs  ->  APIs  ->  
 `R` · `Pandas` · `NumPy` · `Statsmodels` · `Econometrics` · `Experimentation`
 
 **Tools**
-`Git` · `GitHub` · `VS Code` · `Obsidian`
+`Git` · `GitHub` · `VS Code` · `Cursor` ·  `Obsidian`
 
 ---
 
-## Selected projects
+## Projects
 
 ### Sistema de Geração de Texto
 
@@ -138,6 +143,26 @@ Interactive environment for understanding **embedding spaces, similarity metrics
 Experiments involving **object detection, multi-object tracking and crowd analysis**.
 
 **Topics:** YOLO · ByteTrack · pedestrian detection · tracking · crowd counting · video analytics
+
+### Intergenerational Educational Mobility of Migrant Families
+
+Applied research on **intergenerational educational mobility among migrant families in Brazil**, using demographic microdata to compare migrant households with native families and families from migrants' regions of origin.
+
+**Methods:** Markov transition matrices · intergenerational mobility measures · persistence analysis · educational distribution indices · non-parametric analysis · IBGE Census microdata (2000 and 2010)
+
+**Data:** INGE 2010
+
+**Research focus:** migration · human capital · educational mobility · regional inequality
+
+### Intergenerational Transmission and Economic Costs of Obesity in Brazil
+
+Applied econometrics research on **intergenerational obesity transmission, determinants of obesity and its economic costs in Brazil**, combining parametric and non-parametric approaches across multiple national microdata sources.
+
+**Methods:** Markov transition matrices · convergence vectors · mobility indices · linear regression · quantile regression · logit/probit models · discrete choice models · elasticity estimation · cost estimation
+
+**Data:** POF
+
+**Research focus:** health economics · intergenerational transmission · socioeconomic determinants · public health costs
 
 ---
 
