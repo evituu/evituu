@@ -71,6 +71,9 @@ Data  ->  Pipelines  ->  Retrieval / Features  ->  Models / LLMs  ->  APIs  ->  
     src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,opencv,fastapi,nodejs,postgres,aws,docker,react,nextjs,ts,tailwind,git,github,githubactions,linux,obsidian,vscode,vercel&perline=8"
     alt="Core technology stack"
   />
+  <br />
+  <img src="./assets/stata.svg" width="48" height="48" alt="Stata" />
+  <img src="./assets/cursor.svg" width="48" height="48" alt="Cursor" />
 </p>
 
 **AI / ML**
